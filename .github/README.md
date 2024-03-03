@@ -2,6 +2,8 @@
 
 ## Introduction
 
+
+
 Welcome to my Personal Development repository, an exploratory project where I apply the principles of Key Performance Indicators (KPIs) and Objectives and Key Results (OKRs) to my personal growth journey. Inspired by the Heisenberg Uncertainty Principle, this project navigates the delicate balance between measuring performance and making an impact in personal development.
 
 ### The Heisenberg Uncertainty Principle in Personal Development
